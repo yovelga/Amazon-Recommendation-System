@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+# Ignore all CSV files
+*.csv
+Jsonl2CSV.csv
+json_table_one_hot.csv
+# Ignore all files and folders in 'items_images' and 'recsys_data_and_test_files'
+/items_images/
+/recsys_data_and_test_files/
