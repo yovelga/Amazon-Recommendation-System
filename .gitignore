@@ -1,3 +1,7 @@
 items_images
 json_table_one_hot
 Jsonl2CSV
+recsys_data_and_test_files\user_item_rating_train.csv
+recsys_data_and_test_files\items_metadata.jsonl
+Jsonl2CSV.csv
+json_table_one_hot.csv
